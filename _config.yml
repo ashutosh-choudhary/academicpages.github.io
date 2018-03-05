@@ -13,7 +13,7 @@ name                     : &name "Ashutosh Choudhary"
 description              : &description "M.S Computer Science, UMass Amherst. Concentration in Natural Language Processing, Deep Learning, Deep Vision. Worked with DL teams of two dynamic startups."
 url                      : https://ashutosh-choudhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ashutosh-choudhary/academicpages.github.io"
+repository               : "ashutosh-choudhary.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
